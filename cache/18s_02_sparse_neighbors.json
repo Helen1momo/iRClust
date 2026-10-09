@@ -1,0 +1,10 @@
+{
+  "fingerprint": "f754c19fb0021843e4849598ba9542671bb08498a994c1306fab3c7ce25cd02a",
+  "num_sequences": 10000,
+  "sketch_k": 8,
+  "sketch_size": 256,
+  "candidate_k": 128,
+  "exact_k": 128,
+  "exact_distance": "1 - VSEARCH global identity (iddef=2)",
+  "exact_alignment_evaluations": 3618113
+}

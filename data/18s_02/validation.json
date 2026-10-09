@@ -1,0 +1,47 @@
+{
+  "n": 10000,
+  "unique_sequences": 10000,
+  "shared_with_18s_01": 3999,
+  "shared_fraction": 0.3999,
+  "shared_with_old_18s_02": 4023,
+  "assigned_taxa": {
+    "class": 10,
+    "family": 251,
+    "genus": 500
+  },
+  "missing_family_records": 792,
+  "length": {
+    "min": 87,
+    "max": 1791,
+    "mean": 378.9607,
+    "median": 327.0,
+    "std_population": 161.13122402411645
+  },
+  "genus_balance": {
+    "minimum": 4,
+    "maximum": 358,
+    "mean": 20,
+    "population_stdev": 42.59741776211323,
+    "max_minus_min": 354
+  },
+  "class_counts": {
+    "Saccharomycetes": 1408,
+    "Insecta": 1463,
+    "Trebouxiophyceae": 1131,
+    "Chlorophyceae": 1222,
+    "Bangiophyceae": 486,
+    "Dothideomycetes": 710,
+    "Aconoidasida": 774,
+    "Conoidasida": 893,
+    "Arachnida": 1107,
+    "Eurotiomycetes": 806
+  },
+  "sequence_set_sha256": "cffbcd08530e3b5833f6e26eda5aebae2552aecaf760af3cbb0b09a378ba5b4e",
+  "checks": [
+    "10000 unique sequences",
+    "10 classes, 500 genera",
+    "FASTA/CSV IDs match",
+    "all sequences and labels match source pool",
+    "reference overlap <4000"
+  ]
+}
